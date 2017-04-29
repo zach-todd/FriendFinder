@@ -29,5 +29,8 @@ var port = 8080;
 
 
 	app.get("/api/friends", function(req,res){
+		var Friends = {
+			
+		}
 
 	});

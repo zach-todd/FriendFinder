@@ -1,0 +1,25 @@
+{
+  "name": "frienfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zach-todd/FriendFinder.git"
+  },
+  "author": "ZT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zach-todd/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/zach-todd/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
