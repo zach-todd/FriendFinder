@@ -14,6 +14,54 @@ var friends = [
       4,
       1
     ]
+},
+{
+  "name":"Woody",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQ8gkqNa8NmqUvs7apypf3HDHB5O2FsZSs_Rcy7sDUFcoMhrw-A",
+  "scores":[
+      4,
+      3,
+      2,
+      1,
+      2,
+      3,
+      5,
+      2,
+      4,
+      1
+    ]
+},
+{
+  "name":"Tweety",
+  "photo":"https://s-media-cache-ak0.pinimg.com/736x/af/b7/39/afb739e01cea4eff83b5b6c1028f7df1.jpg",
+  "scores":[
+      3,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      5,
+      1,
+      2
+    ]
+},
+{
+  "name":"DEATH (grim)",
+  "photo":"https://s-media-cache-ak0.pinimg.com/736x/98/2a/12/982a122b8e305cf765c76fc1b10bc543.jpg",
+  "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
 }
 ];
 
