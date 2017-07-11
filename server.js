@@ -7,8 +7,8 @@ app.set('port', (process.env.PORT || 8080));
 	app.use(bodyParser.json());
 	app.use( bodyParser.urlencoded( {extended:true}));
 
-	require("./routing/apiRoutes.js")(app);
-	require("./routing/htmlRoutes.js")(app);
+	require("./app/routing/apiRoutes.js")(app);
+	require("./app/routing/htmlRoutes.js")(app);
 	
 
 	app.listen(app.get('port'), function(){
